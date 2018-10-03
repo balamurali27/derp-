@@ -1,2 +1,2 @@
-# derp-
-yo, this is my first project 
+# derp!
+yay, this is my first git project. 
